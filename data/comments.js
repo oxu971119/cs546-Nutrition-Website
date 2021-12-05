@@ -163,6 +163,8 @@ async function removeComment(commentId){
         throw 'Could not update recipes successfully';
     }
 
+    //update user
+
 
     return true;
 
